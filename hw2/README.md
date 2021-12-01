@@ -4,5 +4,5 @@ This code is a little tricky to understand as the course producers set up random
 <br />
 Our output is to either return a location to place a tile or to PASS. You can check if this works manually by typing:
 ```console
->> python my_player3.py
+python my_player3.py
 ``` 

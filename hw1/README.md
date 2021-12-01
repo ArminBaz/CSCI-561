@@ -1,5 +1,8 @@
 ## Homework 1 : 3D Maze
-To use the code simply type: 'python homework3.py'
+To use the code simply type: 
+```console
+python homework3.py
+```
 
 
 To change the input testcases you can either write your own or use the ones that are provided in "test_cases"
