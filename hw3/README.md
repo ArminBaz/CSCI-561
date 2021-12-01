@@ -1,5 +1,5 @@
 ## Homework 3 : MLP From Scratch
-This code is very simple to run: <br/ >
+This code is very simple to run:
 ```console
 >> python train_image.csv train_label.csv test_image.csv
 ```
