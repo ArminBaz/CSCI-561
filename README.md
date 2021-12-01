@@ -18,7 +18,7 @@ This assignment was open-ended and allowed us to use any AI search, game playing
 
 ## Homework 3
 MLP From scratch <br />
-![MNIST](./images/mist.png)
+![MNIST](./images/mnist.png)
 <br />
 This was the easiest homework assignment, in my opinion. The only caveat is that you have to finish training **and** testing in **30 minutes**.
 The easiest way to ensure this is to make sure you are using mini-batches for your forward and backward passes. If you understand the math, its a pretty simple jump to just use matrices instead of single datapoints.
