@@ -12,7 +12,6 @@ class MLP:
         self.num_epochs = num_epochs
         
         # intialize the weights and biases for the hidden layers
-        # Currently using a network with three hidden layers of size 256 128
         self.params = {
             'W1':np.random.randn(512, 784) * np.sqrt(1.0 / 784),
             'b1':np.random.randn(512,1) * np.sqrt(1.0 / 748),
@@ -156,12 +155,8 @@ class MLP:
             
 
 ####    Read in data    ####
-
-#trainX_in = pd.read_csv('train_image.csv', header=None)
 trainX_in = pd.read_csv(sys.argv[1], header=None)
-#trainY_in = pd.read_csv('train_label.csv', header=None)
 trainY_in = pd.read_csv(sys.argv[2], header=None)
-#testX_in = pd.read_csv('test_image.csv', header=None)
 testX_in = pd.read_csv(sys.argv[3], header=None)
 
 # Transpose the matrices to make it fit dimensions of model

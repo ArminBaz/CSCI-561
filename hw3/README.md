@@ -1,7 +1,7 @@
 ## Homework 3 : MLP From Scratch
-This code is very simple to run:
+To run the code:
 ```console
-python train_image.csv train_label.csv test_image.csv
+python data/train_image.csv data/train_label.csv data/test_image.csv NeuralNetwork3.py
 ```
 Where you can replace all of the commands with whatever csv files you want. 
 <br /> <br />

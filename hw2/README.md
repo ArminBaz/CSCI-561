@@ -6,3 +6,4 @@ Our output is to either return a location to place a tile or to PASS. You can ch
 ```console
 python my_player3.py
 ``` 
+You will also see `test_input.txt` within the directory, this will mimic the information that comes in when you are running it on Vocareum so you can use some sanity checks locally.
