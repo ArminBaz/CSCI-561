@@ -12,9 +12,9 @@ Each 3D maze is a grid of points with (x,y,z) locations, there are 18 actions ou
 Little-GO agent on a 5x5 GO board <br />
 ![Little-GO Board](./images/little_GO.png)
 <br />
-ihis assignment was open-ended and allowed us to use any AI search, game playing, or reinforcement learning technique we desired. I decided to implement a simple minimax algorithm.
+This assignment was open-ended and allowed us to use any AI search, game playing, or reinforcement learning technique we desired. I decided to implement a simple minimax algorithm.
 <br /> <br />
-**Note:** If you are short on time, use the minimax algorithm as it will win *most* games. However, for full credit, you need to implement a much more sophisticated solution. Using a Q-Learning approach is very heavy and not advised. Instead, I would opt for a more lightweight solution.
+**Note:** If you are short on time, use the minimax algorithm as it will win *most* games. However, for full credit, you need to implement a more sophisticated solution. Using a Q-Learning approach is very heavy and not advised. Instead, I would opt for a more lightweight solution.
 
 ## Homework 3
 MLP From scratch <br />
