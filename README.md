@@ -3,7 +3,7 @@ All coursework for CSCI-561 Foundations of Artificial Intelligence for the semes
 
 ## Homework 1
 Path-Finding Algorithms (BFS, DFS, A\*) in a 3D maze <br />
-![3D Maze](./images/3D_maze.png)
+<img src="./images/3D_maze.png" width="200" height="200" />
 <br />
 For this assignment we applied AI search techniques to solve sophisticated 3D mazes.
 Each 3D maze is a grid of points with (x,y,z) locations, there are 18 actions our agent can make (see assignment pdf for more details). The program should output the **optimal** path (according to the search algorithm).
