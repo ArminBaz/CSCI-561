@@ -1,5 +1,5 @@
 # USC CSCI-561 Fall 2020
-All coursework for CSCI-561 Foundatios of Artificial Intelligence for the semester of Fall 2020 at USC.
+All coursework for CSCI-561 Foundations of Artificial Intelligence for the semester of Fall 2020 at USC.
 
 ## Homework 1
 Path-Finding Algorithms (BFS, DFS, A\*) in a 3D maze <br />
